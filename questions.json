@@ -1,0 +1,112 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "If x = 3, find the value of the expression <br>2x + 7",
+    "options": [
+      "12",
+      "10",
+      "13",
+      "11"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Evaluate for x = 10,  2(x + 9)",
+    "options": [
+      "36",
+      "38",
+      "29",
+      "91"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Evaluate the polynomial for x=–2 and y= 2,<br> 3(x + 4y - 9)",
+    "options": [
+      "–10",
+      "10",
+      "9",
+      "–9"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Evaluate for y = 2x, where x = 3,<br> 3xy + 3",
+    "options": [
+      "40",
+      "39",
+      "57",
+      "20"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q5",
+    "question": "If a = 3, b = –2, find the value of <br>2a² + 3ab.",
+    "options": [
+      "6",
+      "5",
+      "2",
+      "0"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q6",
+    "question": "If l = 1, m = 2 and n = 3, evaluate the following expression:<br><img width='80%' src='./assests/images/1.png'>",
+    "options": [
+      "14",
+      "7",
+      "9",
+      "9"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Evaluate a(b + c)² for a=2, b=2 and c=5.",
+    "options": [
+      "96",
+      "97",
+      "98",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Work out an expression and then find the area of a rectangle with length a² and breadth a, where a=5.",
+    "options": [
+      "75",
+      "125",
+      "45",
+      "115"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q9",
+    "question": "If x= ½  and y = ⅓, find 2x + 3x.",
+    "options": [
+      "2",
+      "<sup>2</sup>&frasl;<sub>5</sub>",
+      "1",
+      "<sup>5</sup>&frasl;<sub>2</sub>"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Solve for x= 2, <br><img width='80%' src='./assests/images/2.png'>",
+    "options": [
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 1
+  }
+]
