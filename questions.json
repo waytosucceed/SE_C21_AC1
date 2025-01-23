@@ -61,7 +61,7 @@
       "14",
       "7",
       "9",
-      "9"
+      "17"
     ],
     "correct": 1
   },
@@ -89,7 +89,7 @@
   },
   {
     "questionNo": "Q9",
-    "question": "If x= ½  and y = ⅓, find 2x + 3x.",
+    "question": "If x= ½  and y = ⅓, find 2x + 3y.",
     "options": [
       "2",
       "<sup>2</sup>&frasl;<sub>5</sub>",
